@@ -8,8 +8,8 @@ This script scrape data from openstreet map in a selected area. For complete det
  * An area of one km radius is selected first. All the nodes in that area are extracted. The Json files include all the properties. 
 
 <p float="left">
-  <img src="images/image2.png" width="400" />
-  <img src="images/image3.png" width="400" /> 
+  <img src="images/image2.png" width="400" height="400"/>
+  <img src="images/image3.png" width="400" height="400"/> 
 </p>
 
 
